@@ -1,0 +1,273 @@
+a {
+    text-decoration: none !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.icon-home {
+    color: #fff;
+}
+
+.navbar {
+    position: no;
+    /*Cho menu cố định 1 vị trí với top và left*/
+}
+
+.nav-item :hover {
+    background-color: #33D4FF;
+    /*hover:; đổi màu khi chuyển chuột tới phần tử*/
+}
+
+.viet {
+    width: 20px;
+    height: 20px;
+}
+
+.anh {
+    width: 43px;
+    height: 25px;
+}
+
+.logo {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+/*content01*/
+
+.tuyensinh {
+    width: 38px;
+    height: 32px;
+}
+
+.img-htdaotao {
+    width: 30px;
+    height: 32px;
+}
+
+.img-daotao {
+    width: 45px;
+    height: 43px;
+}
+
+.daotaotienganh {
+    width: 100%;
+}
+
+.kythuatoto {
+    width: 100%;
+}
+
+.ts {
+    border-bottom: 1px dotted;
+    margin-bottom: 10px;
+}
+
+.ts1 {
+    color: #000;
+}
+
+.daotao {
+    color: #fff;
+    font-family: Times New Roman;
+    /*font-family:; font chữ*/
+}
+
+.dethi {
+    width: 100%;
+}
+
+.icon-plus {
+    color: red;
+}
+
+a.xemtatca:hover {
+    color: blue !important;
+}
+
+.xemthem {
+    text-align: right;
+}
+
+.htdt {
+    margin-bottom: 5px;
+}
+
+a,
+p,
+span {
+    font-family: Times New Roman;
+}
+
+.dethi01 {
+    margin-top: 20px;
+}
+
+
+/*content02*/
+
+.img-truong {
+    width: 38px;
+    height: 32px;
+}
+
+.giangvien {
+    width: 100%;
+}
+
+.img-bongda {
+    width: 100%;
+}
+
+.ts {
+    border-bottom: 1px dotted;
+    margin-bottom: 10px;
+}
+
+.ts1 {
+    color: #000;
+}
+
+.bt-hoithao {
+    margin-top: 20px;
+}
+
+.hoithao {
+    width: 100%;
+}
+
+.img-star {
+    width: 30px;
+    height: 32px;
+}
+
+.hot-new {
+    color: black;
+}
+
+.hot-new:hover {
+    color: blue !important;
+}
+
+.icon-muiten {
+    color: red;
+}
+
+.img-tenlua {
+    width: 38px;
+    height: 32px;
+}
+
+
+/*media*/
+
+.link-media {
+    color: #FF7300;
+}
+
+.img-media {
+    width: 30px;
+    height: 32px;
+}
+
+.img-media1 {
+    width: 100%;
+}
+
+.text-media:hover {
+    color: blue;
+}
+
+
+/*final content*/
+
+.img-sinhvien {
+    width: 38px;
+    height: 32px;
+}
+
+.img-danhgia {
+    width: 100%;
+}
+
+.img-thuctap {
+    width: 100%;
+}
+
+.img-hoatdongsv {
+    width: 100%;
+}
+
+.img-lich {
+    width: 30px;
+    height: 32px;
+}
+
+.icon-gps {
+    color: #FF5E00;
+}
+
+.text-orange {
+    color: #FF5E00;
+}
+
+.back-orange {
+    background-color: #FF5E00;
+    color: #fff;
+}
+
+.img-fb {
+    width: 27px;
+    height: 27px;
+}
+
+.img-yt {
+    width: 27px;
+    height: 27px;
+}
+
+.img-gg {
+    width: 25px;
+    height: 25px;
+}
+
+.img-tw {
+    width: 27px;
+    height: 27px;
+}
+
+.img-blog {
+    width: 27px;
+    height: 27px;
+}
+
+.img-tum {
+    width: 27px;
+    height: 27px;
+}
+
+
+/*footer*/
+
+.footer-left {
+    padding: 10px;
+    margin-left: 370px;
+}
+
+.footer-right {
+    padding: 10px;
+    margin-left: 370px;
+}
+
+.text-doitac {
+    text-align: center;
+}
+
+.img-doitac {
+    width: 100px;
+    height: 70px;
+}
